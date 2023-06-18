@@ -1,0 +1,27 @@
+{
+    "categories": {
+        "adventure": "冒险",
+        "cursed": "Cursed",
+        "decoration": "装饰",
+        "economy": "经济",
+        "equipment": "装备",
+        "food": "食物",
+        "game-mechanics": "机械",
+        "library": "基础库",
+        "magic": "魔法",
+        "management": "管理",
+        "minigame": "小游戏",
+        "mobs": "怪物",
+        "optimization": "优化",
+        "social": "社交",
+        "storage": "存储",
+        "technology": "科技",
+        "transportation": "运输",
+        "utility": "工具",
+        "worldgen": "世界生成"
+    },
+    "loaders": {
+        "fabric": "Fabric",
+        "forge": "Forge"
+    }
+}
